@@ -1,0 +1,5 @@
+com\tss\entities\Product.class
+com\tss\TSSEurekaClient\TssEurekaClientApplication.class
+com\tss\controllers\ProductController.class
+com\tss\to\ProductTO.class
+com\tss\repositories\ProductRepository.class
