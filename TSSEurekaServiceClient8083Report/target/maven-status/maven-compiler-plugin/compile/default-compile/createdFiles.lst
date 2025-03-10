@@ -1,0 +1,5 @@
+com\tss\services\ProductService.class
+com\tss\TSSEurekaClient\TssEurekaClientApplication.class
+com\tss\to\ProductTO.class
+com\tss\TSSEurekaClient\ReportController.class
+com\tss\TSSEurekaClient\DocumentCreator.class
