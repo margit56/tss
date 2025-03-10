@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tss.TSSEurekaClient.TssEurekaClientApplicationTests
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.914 s <<< FAILURE! - in com.tss.TSSEurekaClient.TssEurekaClientApplicationTests
-testFile  Time elapsed: 0.709 s  <<< ERROR!
-java.lang.NullPointerException: Cannot invoke "java.io.File.exists()" because "fileTest" is null
-	at com.tss.TSSEurekaClient.TssEurekaClientApplicationTests.testFile(TssEurekaClientApplicationTests.java:48)
-
