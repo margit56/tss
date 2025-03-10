@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tss.TSSEurekaClient.TssEurekaClientApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 95.874 s - in com.tss.TSSEurekaClient.TssEurekaClientApplicationTests
